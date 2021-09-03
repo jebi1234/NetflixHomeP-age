@@ -1,1 +1,1 @@
-# NetflixHomeP-age
+# NetflixHomePage only education purpose
